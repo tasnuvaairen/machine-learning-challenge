@@ -1,0 +1,4 @@
+Model1 score = 0.8664873489109948
+Model2 score = 0.8680138845428944
+
+They are very much close to eachother 
